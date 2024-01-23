@@ -3,7 +3,7 @@
 - ⚙️ I’m currently working on Full Stack projects
 - 📕 I’m currently learning Spring Framework
 - 📧 How to reach me: jmisidoro04@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanHenrique04&layout=donut&exclude_repo=Trabalho-Angular-main&theme=dracula)](https://github.com/JuanHenrique04/github-readme-stats)
 
