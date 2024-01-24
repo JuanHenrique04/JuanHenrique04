@@ -8,12 +8,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanHenrique04&layout=donut&exclude_repo=Trabalho-Angular-main&theme=dracula)](https://github.com/JuanHenrique04/github-readme-stats)
 <img align="right" width="230" alt="gif" src="https://cdn.discordapp.com/attachments/1122666147653894275/1199493120904142968/Design_sem_nome_1.gif?ex=65c2be05&is=65b04905&hm=adff9fc9dde853fc6cfb466f2b87183cc868b6f77e409e160d99e7c4afb132f8&">
 
+##
+### Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ##
