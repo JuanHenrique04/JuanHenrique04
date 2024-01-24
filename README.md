@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanHenrique04&layout=donut&exclude_repo=Trabalho-Angular-main&theme=radical)](https://github.com/JuanHenrique04/github-readme-stats)
-<img align="right" width="220" alt="gif" src="https://cdn.discordapp.com/attachments/1122666147653894275/1199493120904142968/Design_sem_nome_1.gif?ex=65c2be05&is=65b04905&hm=adff9fc9dde853fc6cfb466f2b87183cc868b6f77e409e160d99e7c4afb132f8&">
+<img align="right" width="220" alt="gif" src="https://cdn.discordapp.com/attachments/1122666147653894275/1199560226903429150/Design_sem_nome_4.gif?ex=65c2fc84&is=65b08784&hm=d70034c14de3e58561a99344abc5afd41ce2527b58c68fd40e8e80b4e7037c45&">
 
 ### Skills:
 <div style="display: inline_block"><br>
