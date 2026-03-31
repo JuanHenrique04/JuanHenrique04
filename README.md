@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=ff0000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=ff0000"/>
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hi!+I'm+Juan+Henrique!;I'm+a+Cyber+Security+Analyst;and+Full-Stack+Developer" alt="Typing SVG"/>
