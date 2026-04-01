@@ -20,7 +20,7 @@ Hello! My name is Juan Henrique. I’m a Computer Science graduate focused on cy
 
 <div style="display: inline-block; width: 100%;">
   <!-- <img align="left" alt="git_stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanHenrique04&layout=donut&exclude_repo=Trabalho-Angular-main&theme=radical"> -->
-  <img align="left" alt="git_stats_1" src="https://streak-stats.demolab.com/?user=JuanHenrique04&theme=dark">
+  <img align="left" alt="git_stats_1" src="https://streak-stats.demolab.com/?user=JuanHenrique04&theme=youtube-dark">
   <img align="right" width="200" alt="gif" src="https://github.com/JuanHenrique04/JuanHenrique04/assets/112211756/c7231db5-6a44-4d1e-97d0-9ca5b006fe62">
 </div>
 
